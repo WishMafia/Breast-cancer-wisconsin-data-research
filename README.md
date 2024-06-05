@@ -28,6 +28,6 @@ The results of the classification models are compared and analyzed to determine 
 To use this project, clone the repository and install the necessary dependencies. Run the Jupyter notebooks provided to see the analysis and results.
 
 ```sh
-git clone https://github.com/yourusername/breast-cancer-wisconsin-data-research.git
+git clone https://github.com/sanith531/Breast-cancer-wisconsin-data-research
 cd breast-cancer-wisconsin-data-research
 pip install -r requirements.txt
